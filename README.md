@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/weiyijie-git/assets/main/img/foW4AcU.jpg" height="350" title="HackintoshLogo">
+<img src="https://i.imgur.com/foW4AcU.jpg" height="350" title="HackintoshLogo">
 
 # macOS Big Sur - Hackintosh
 
